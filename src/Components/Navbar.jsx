@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <>
     <div className='navbar'>
-      <span className='titel'>BackGrounder Remover</span>
+      <span className='titel'>BackGround Remover</span>
       <a href='https://github.com/RakeshRoy-977' className='git'>Github Profile</a>
       
     </div>
