@@ -54,8 +54,8 @@ const Home = () => {
                 </div>
                 </div>
 
-                {isUploaded && <span className='text'>Plese Wait....</span>}
-
+                {isUploaded && <span className='text'>Please Wait....</span>}
+                
                 
                 {finalurl && 
                 <div className="output">
